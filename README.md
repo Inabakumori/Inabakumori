@@ -8,4 +8,4 @@ Hiya!
 - 📫 How to reach me: [Discord server](https://discord.gg/QERDJUNFfK)
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I am a child
--->
+- 🌸 [This repo](https://github.com/crytorr/crytorr) is going to be used to mess around ig lmao
