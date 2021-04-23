@@ -1,4 +1,4 @@
-Hiya!
+Hiya my name is Yvonne!
 
 - 🔭 I’m currently working on: [Random Sentence generator)](https://github.com/crytorr/random-sentence-generator)
 - 🌱 I’m currently learning: Javascript
