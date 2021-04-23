@@ -1,6 +1,6 @@
 Hiya!
 
-- 🔭 I’m currently working on: [Installer for minecraft mods on my upcoming smp :)](https://github.com/TechSmp/TechSmpInstaller)
+- 🔭 I’m currently working on: [Random Sentence generator)](https://github.com/crytorr/random-sentence-generator)
 - 🌱 I’m currently learning: Javascript
 - 👯 I’m looking to collaborate on: idk
 - 🤔 I’m looking for help with: maybe javascript idk
