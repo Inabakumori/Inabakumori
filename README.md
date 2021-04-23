@@ -5,7 +5,7 @@ Hiya!
 - 👯 I’m looking to collaborate on: idk
 - 🤔 I’m looking for help with: maybe javascript idk
 - 💬 Ask me about: anything lol
-- 📫 How to reach me: [Discord server](https://discord.gg/QERDJUNFfK)
+- 📫 How to reach me: [Discord server](https://discord.gg/)
 - 😄 Pronouns: She/they
 - ⚡ Fun fact: I am a child
 - 🌸 [This repo](https://github.com/crytorr/crytorr) is going to be used to mess around ig lmao
