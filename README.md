@@ -1,9 +1,9 @@
 Hiya my name is Yvonne!
 
 - 🔭 I’m currently working on: [Random Sentence generator](https://github.com/crytorr/random-sentence-generator)
-- 🌱 I’m currently learning: Javascript
+- 🌱 I’m currently learning: Jabaskirpt
 - 👯 I’m looking to collaborate on: idk
-- 🤔 I’m looking for help with: maybe javascript idk
+- 🤔 I’m looking for help with: maybe jabascirpt idk
 - 💬 Ask me about: anything lol
 - 📫 How to reach me: [Discord server](https://discord.gg/)
 - 😄 Pronouns: She/they
