@@ -11,6 +11,5 @@ Hiya my name is Yvonne!
 - 🌸 [This repo](https://github.com/crytorr/crytorr) is going to be used to mess around ig lmao
 - 😃 Before you ask I am not any of the people in my profile pictures please do not bother me about it
 
-<img src= "https://github-readme-stats.vercel.app/api?username=crytorr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
   lulw literally dogwater stats are shit literally nothing there
