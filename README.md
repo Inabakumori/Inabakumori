@@ -6,7 +6,6 @@ Hiya my name is Yvonne!
 - 🤔 I’m looking for help with: maybe jabascirpt idk
 - 💬 Ask me about: anything lol
 - 📫 How to reach me: [Discord server](https://discord.gg/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a child
 - 🌸 [This repo](https://github.com/crytorr/crytorr) is going to be used to mess around ig lmao
 - 😃 Before you ask I am not any of the people in my profile pictures please do not bother me about it
